@@ -1,0 +1,48 @@
+header{
+	text-align: left;
+	padding: 6%;
+	background-color%;: linear-gradient(to right,grey,black);
+	text-shadow: 5px 3px 4px lightgreen;
+	text-decoration: underline;
+}
+
+.primary{
+	padding: 6%;
+	text-align: left;
+	margin-bottom: 5px;
+	border-radius: 5px;
+	border-color: white;
+	background-image: linear-gradient(to right,lightgreen,green);
+	color: black;
+	
+}
+.ssc{
+	padding: 6%;
+	text-align: left;
+	margin-bottom: 5px;
+	border-radius: 5px;
+	border-color: white;
+	background-image: linear-gradient(to right,lightgreen,green);
+	color: black;
+
+}
+.hsc{
+
+	padding: 6%;
+	text-align: left;
+	margin-bottom: 5px;
+	border-radius: 5px;
+	border-color: white;
+	background-image: linear-gradient(to right,lightgreen,green);
+	color: black;
+
+}
+.bsc{
+	padding: 6%;
+	text-align: left;
+	border-radius: 5px;
+	border-color: white;
+	background-image: linear-gradient(to right,lightgreen,green);
+	color: black;
+
+}

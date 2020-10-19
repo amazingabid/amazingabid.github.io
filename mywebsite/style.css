@@ -1,0 +1,29 @@
+
+header{
+	border: 1%;
+	margin: 2px;
+	padding: 3%;
+	height: 600px;
+	background-size: 100%;
+	/*background-color: lightgreen;*/
+	/*background-color:linear-gradient(to right,grey,black)*/
+	background-image:url("images/img1.jpeg");
+}
+nav {
+	text-align: center;
+	
+}
+nav a {
+	background-color: lightyellow;
+	border-radius: 2px;
+	padding: 10px;
+	margin: 1px;
+	display: inline-block;
+	opacity: 0.6;
+}
+body{
+	border: 1%;
+	margin: 1%;
+	
+	background-color: lightgrey;
+}

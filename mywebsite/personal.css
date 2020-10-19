@@ -1,0 +1,58 @@
+body{
+	background-color: linear-gradient(to right,grey,black);
+}
+header{
+	text-align: left;
+	padding: 6%;
+	background-color%;: linear-gradient(to right,grey,black);
+	text-shadow: 5px 3px 4px lightblue;
+	text-decoration: underline;
+	}
+section{
+	width:50%;
+	transition: width 1s linear;
+}
+section:hover{
+	width:100%;
+}
+.family{
+	padding: 6%;
+	text-align: left;
+	margin-bottom: 5px;
+	border-radius: 5px;
+	border-color: white;
+	background-image: linear-gradient(to right,lightblue,navy);
+	color: black;
+	
+}
+.present{
+	padding: 6%;
+	text-align: left;
+	margin-bottom: 5px;
+	border-radius: 5px;
+	border-color: white;
+	background-image: linear-gradient(to right,lightblue,navy);
+	color: black;
+	
+
+}
+.permanent{
+	padding: 6%;
+	text-align: left;
+	margin-bottom: 5px;
+	border-radius: 5px;
+	border-color: white;
+	background-image: linear-gradient(to right,lightblue,navy);
+	color: black;
+	
+
+}
+.others{
+	padding: 6%;
+	text-align: left;
+	border-radius: 5px;
+	border-color: white;
+	background-image: linear-gradient(to right,lightblue,navy);
+	color: black;
+	
+}

@@ -1,0 +1,26 @@
+header{
+	text-align: left;
+	padding: 6%;
+	background-color: linear-gradient(to right,grey,black);
+	text-shadow: 1px 3px 4px teal;
+	text-decoration: underline;
+}
+.general{
+	padding: 6%;
+	text-align: left;
+	margin-bottom: 5px;
+	border-radius: 5px;
+	border-color: white;
+	background-image: linear-gradient(to right,lightgreen,teal);
+	color: black;
+	
+}
+.technical{
+	padding: 6%;
+	text-align: left;
+	border-radius: 5px;
+	border-color: white;
+	background-image: linear-gradient(to left,lightgreen,teal);
+	color: black;
+	
+}
